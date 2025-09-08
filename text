@@ -1,0 +1,42 @@
+{
+  "text": "What's up guys, you're back with another video of Sigma Web Development Course. I'm really very happy that you guys have given so much love to this course. Like this video with high energy because Sigma Free...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.76,
+      "text": "What's up guys, you're back with another video of Sigma Web Development Course.",
+      "tokens": [50364, 708, 311, 493, 1074, 11, 291, 434, 646, 365, 1071, 960, 295, 318, 20181, 64, 9573, 15041, 27327, 13, 50552],
+      "temperature": 0.0,
+      "avg_logprob": -0.8181989457872179,
+      "compression_ratio": 1.3725490196078431,
+      "no_speech_prob": 0.22635512053966522
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.76,
+      "end": 7.36,
+      "text": "I'm really very happy that you guys have given so much love to this course.",
+      "tokens": [50552, 286, 478, 534, 588, 2055, 300, 291, 1074, 362, 2212, 370, 709, 959, 281, 341, 1164, 13, 50732],
+      "temperature": 0.0,
+      "avg_logprob": -0.8181989457872179,
+      "compression_ratio": 1.3725490196078431,
+      "no_speech_prob": 0.22635512053966522
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.36,
+      "end": 10.4,
+      "text": "Like this video with high energy because Sigma Free...",
+      "tokens": [50732, 1743, 341, 960, 365, 1090, 2281, 570, 36595, 6142, 68, 485, 50884],
+      "temperature": 0.0,
+      "avg_logprob": -0.8181989457872179,
+      "compression_ratio": 1.3725490196078431,
+      "no_speech_prob": 0.22635512053966522
+    }
+  ],
+  "language": "hi"
+}

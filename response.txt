@@ -1,0 +1,3 @@
+{
+    "error": "model requires more system memory (6.0 GiB) than is available (5.4 GiB)"
+}

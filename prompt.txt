@@ -1,0 +1,29 @@
+[
+    {
+        "chunk_id": 2,
+        "text": " It's my pleasure to keep this.",
+        "similarity": 0.4186,
+        "start": 2.6,
+        "end": 4.32,
+        "tag": "Information",
+        "time": "2025-09-07T20:17:24.789137"
+    },
+    {
+        "chunk_id": 1,
+        "text": " In the last video, you guys gave a lot of love.",
+        "similarity": 0.3984,
+        "start": 0.0,
+        "end": 2.6,
+        "tag": "Information",
+        "time": "2025-09-07T20:17:24.789137"
+    },
+    {
+        "chunk_id": 0,
+        "text": " What's up guys, you are back with another video of Sigma Web Development.",
+        "similarity": 0.373,
+        "start": 0.0,
+        "end": 3.1,
+        "tag": "Information",
+        "time": "2025-09-07T20:17:24.789137"
+    }
+]
